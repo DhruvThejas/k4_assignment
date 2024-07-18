@@ -1,7 +1,7 @@
 # k4_assignment
 Q: Can Artificial Intelligence (AI) play games (like HTML5 Games similar to this - 
 https://k4.games/)? If yes, how can you use concepts of computer vision to prove this 
-and tool you need to use. 
+and tool you need to use.
 Yes 
 We can use Reinforcement learning (where agent gets rewarded by the environment the 
 more closely it acts like the actual model) PPO/ TRPO policies can be used. RL is 
